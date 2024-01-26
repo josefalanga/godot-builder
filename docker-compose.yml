@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  godot-builder:
+    build: .
+    image: josefalanga/godot-builder:v1
