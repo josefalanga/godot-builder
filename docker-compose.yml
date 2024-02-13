@@ -3,4 +3,4 @@ version: '2'
 services:
   godot-builder:
     build: .
-    image: josefalanga/godot-builder:v2
+    image: josefalanga/godot-builder:v3
